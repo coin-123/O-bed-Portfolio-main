@@ -20,7 +20,7 @@ const Works = () => {
         <img src={Logo7} alt="" className="workimg" />
         <img src={Logo2} alt="" className="workimg" />
         <img src={Logo3} alt="" className="workimg" />
-        <img src={Logo4} alt="" className="workimg" />   
+        <img src={Logo4} alt="" className="workimg" />
         <img src={Logo5} alt="" className="workimg" />
         <img src={Logo6} alt="" className="workimg" />
       </div>
@@ -30,5 +30,4 @@ const Works = () => {
     </section>
   )
 }
-
 export default Works

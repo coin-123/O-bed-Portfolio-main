@@ -87,6 +87,7 @@ const Navbar = () => {
           className="listiterms"
           onClick={() => setshowmenu(false)}
         >
+          
           Home
         </Link>
         <Link
