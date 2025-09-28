@@ -24,9 +24,9 @@ const Works = () => {
         <img src={Logo5} alt="" className="workimg" />
         <img src={Logo6} alt="" className="workimg" />
       </div>
-      <button className="workbtn">
+      {/* <button className="workbtn">
         See More
-      </button>
+      </button> */}
     </section>
   )
 }
