@@ -8,33 +8,39 @@ const Skills = () => {
   return (
     <section id="skills">
       <span className="skilltitle">
-        What I do
+        What I Do
       </span>
-      <span className="skilldes">I am a skilled and passionate Software Engineer with experience in creating visually appealing and user friendly web apllications.</span>
+      <span className="skilldes">
+        I am a dedicated Software Engineer specializing in building modern, responsive, and user-centric web applications. My expertise spans UI/UX design, website development, and mobile app interfaces, ensuring seamless and engaging digital experiences.
+      </span>
       <div className="skillbars">
         <div className="skillbar">
-          <img src={uiux} alt="uiux" className="skillbarimg" />
+          <img src={uiux} alt="UI/UX Design" className="skillbarimg" />
           <div className="skillbartext">
             <h2>UI/UX Design</h2>
-            <p>This is a demo text,you can write your own content here</p>
+            <p>
+              I design intuitive and visually appealing user interfaces, focusing on delivering seamless user experiences that align with business goals and user needs.
+            </p>
           </div>
         </div>
-          <div className="skillbar">
-          <img src={webdesign} alt="webdesign" className="skillbarimg" />
+        <div className="skillbar">
+          <img src={webdesign} alt="Website Design" className="skillbarimg" />
           <div className="skillbartext">
-              <h2>Website Design</h2>
-            <p>This is a demo text,you can write your own content here</p>
+            <h2>Website Design</h2>
+            <p>
+              I develop responsive and high-performance websites using modern technologies, ensuring accessibility, scalability, and a strong online presence.
+            </p>
           </div>
         </div>
-
-          <div className="skillbar">
-          <img src={appdesign} alt="appdesign" className="skillbarimg" />
+        <div className="skillbar">
+          <img src={appdesign} alt="App Design" className="skillbarimg" />
           <div className="skillbartext">
-             <h2>AppDesign</h2>
-            <p>This is a demo text,you can write your own content here</p>
+            <h2>App Design</h2>
+            <p>
+              I create engaging and user-friendly mobile app interfaces, focusing on usability and consistency across platforms for an optimal user experience.
+            </p>
           </div>
         </div>
-        
       </div>
     </section>
   )

@@ -14,7 +14,7 @@ const Works = () => {
         My Portfolio
       </h2>
       <span className="workdes">
-        I am a skilled and passionate Software Engineer with experience in creating visually appealing and user friendly web interface.
+        Explore a selection of my recent projects, showcasing my expertise in building responsive, user-centric web applications. Each project highlights my commitment to clean code, modern design, and seamless user experiences.
       </span>
       <div className="workimgs">
         <img src={Logo7} alt="" className="workimg" />
