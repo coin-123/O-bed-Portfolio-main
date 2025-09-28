@@ -14,7 +14,7 @@ const Works = () => {
         My Portfolio
       </h2>
       <span className="workdes">
-        I am a skilled and passionate web designer with experience in creating visually appealing and user friendly websites.
+        I am a skilled and passionate Software Engineer with experience in creating visually appealing and user friendly web interface.
       </span>
       <div className="workimgs">
         <img src={Logo7} alt="" className="workimg" />

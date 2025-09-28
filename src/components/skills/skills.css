@@ -66,7 +66,7 @@
 
 
 
-@media screen and (max-width: 20px) {
+@media screen and (max-width: 438px) {
     #skills {
         width: 100%;
         padding: 0 1rem;
@@ -83,6 +83,7 @@
     .skillbar {
         flex-direction: column;
         align-items: flex-start;
+        padding: 0.5rem 1rem;
     }
 
     .skillbarimg {

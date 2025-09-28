@@ -46,3 +46,43 @@
     margin: 3rem 0;
     cursor: pointer;
 }
+
+
+
+/* media screen */
+
+
+
+@media screen and (max-width: 544px) {
+   /* .workimgs{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 65rem;
+} */
+
+.workimg{
+    object-fit: cover;
+    height: 10rem;
+    margin: 0.5rem;
+}
+    
+}
+
+@media screen and (max-width: 438px) {
+   /* .workimgs{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 65rem;
+} */
+
+.workimg{
+    object-fit: cover;
+    height: 5rem;
+    margin: 0.5rem;
+}
+    
+}

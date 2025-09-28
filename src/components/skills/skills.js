@@ -10,7 +10,7 @@ const Skills = () => {
       <span className="skilltitle">
         What I do
       </span>
-      <span className="skilldes">I am a skilled and passionate web designer with experience in creating visually appealing and user friendly websites.</span>
+      <span className="skilldes">I am a skilled and passionate Software Engineer with experience in creating visually appealing and user friendly web apllications.</span>
       <div className="skillbars">
         <div className="skillbar">
           <img src={uiux} alt="uiux" className="skillbarimg" />
