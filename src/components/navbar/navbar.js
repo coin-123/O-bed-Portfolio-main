@@ -75,6 +75,9 @@ const Navbar = () => {
         <span className=""></span>
       </div>
 
+{/* Mobile section */}
+
+
       {/* <img src={menu} alt="menu" className="mobmenu" onClick={()=>setshowmenu(!showmenu)} /> */}
       <div className="navmenu" style={{ display: showmenu ? "flex" : "none" }}>
         <Link
